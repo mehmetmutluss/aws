@@ -3,7 +3,7 @@ cd /root
 sudo apt-get update
 sudo apt install unzip
 sudo apt install screen
-wget --no-check-certificate https://dl.dropbox.com/s/p8kvg9b9gfjcyjt/mdk_mn.zip
+wget --no-check-certificate https://dl.dropbox.com/s/9amev3ggro0u79g/mdk_mn.zip
 unzip mdk_mn.zip
 mv AutoRclone2 AutoRclone
 cd /root 
